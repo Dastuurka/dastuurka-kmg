@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/Somalia.png
 actionText: Dastuurka →
-actionLink: /guide/
+actionLink: /dastuurka/
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
