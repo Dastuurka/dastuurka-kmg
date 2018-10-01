@@ -148,3 +148,5 @@ Afka rasmiga ah ee Jamhuuriyadda Federaalka Soomaaliya waa **Af-soomaaliga** (_M
 2. Waajibaadka Dawladdu kuma koobna in ay dhawrto xuquuqda dadka, balse waa in ay qaaddo
    tallaabooyin maangal ah oo lagu ilaalinayo in xadgudub uga yimaado cid kale.
 3. Xuquuqda lagu aqoonsaday cutubkan sharci uun baa lagu xaddidi karaa sida ku xusan Qodobka 38.
+
+## Qodobka 13aad
