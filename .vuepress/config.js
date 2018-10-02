@@ -1,7 +1,6 @@
 module.exports = {
   title: "Dastuurka",
   description: "Jamhuuriyadda Federaalka ee Soomaaliya",
-  title: "Dastuurka",
   description: "Jamhuuriyadda Federaalka ee Soomaaliya",
 
   //Displays options for langugaes
